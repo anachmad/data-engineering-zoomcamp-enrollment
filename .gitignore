@@ -140,5 +140,6 @@ zoomcamp/
 terraform.tfstate
 terraform.tfstate.backup
 
-# csv
+# files
 *.csv.gz
+*.parquet
