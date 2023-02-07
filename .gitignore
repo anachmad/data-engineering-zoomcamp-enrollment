@@ -128,6 +128,17 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#directories
+# directories
 ny_taxi_postgres_data/
 csv/
+config/
+zoomcamp/
+
+# terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
+# csv
+*.csv.gz
